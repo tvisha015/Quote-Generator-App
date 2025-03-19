@@ -21,7 +21,10 @@ The **Quote Generator App** is a simple yet powerful web application designed to
 - **Fetch API** – Retrieving quotes from an online API  
 - **Clipboard API** – Enabling copy-to-clipboard functionality  
 - **Twitter Web Intent API** – Allowing users to share quotes on Twitter  
-- **HTML2Canvas Library** – Exporting quotes as an image  
+- **HTML2Canvas Library** – Exporting quotes as an image
+  
+## Live Link 
+🚀 https://quote-generator-app-bice-kappa.vercel.app/
 
 ## 📸 Preview  
 ![image](https://github.com/user-attachments/assets/b324fa6d-89b4-42c1-b0b0-acd17a4fcd16)
